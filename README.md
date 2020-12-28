@@ -1,3 +1,4 @@
+Demonstrating use of Bad Words API with ReactJS.
 
 ## Available Scripts
 
